@@ -1,0 +1,10 @@
+{
+  "name": "proxygoogle",
+  "description": "proxy for google",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "4.x.x",
+    "request": "2.64.0",
+    "socks5-https-client": "1.1.1"
+  }
+}
